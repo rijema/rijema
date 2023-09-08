@@ -1,7 +1,6 @@
-### Hi there 👋🏽🧔🏽‍♂️
+ Skills:	Java, Javascript, Python, C, SQL, Git, Docker, AWS.
 
-- ⚡ I'm interested in Software Engineering and Robotics.
-- ⚡ I'm currently working at Liferay as a Fullstack Engineer.
-- ⚡ I enjoy learning languages and reading dystopian books.
+ Languages: English (Advanced C1), Spanish (Advanced C1), Mandarin (Intermediate HSK2), Portuguese (native).
+
 
 
